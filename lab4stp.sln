@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab4stp", "lab4stp\lab4stp.csproj", "{1DFF2E02-F067-4F82-8BCD-4C601ABB41F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab4stptest2", "lab4stptest2\lab4stptest2.csproj", "{88699708-3FAE-47A9-A460-5A83C4FDF27E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DFF2E02-F067-4F82-8BCD-4C601ABB41F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFF2E02-F067-4F82-8BCD-4C601ABB41F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFF2E02-F067-4F82-8BCD-4C601ABB41F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFF2E02-F067-4F82-8BCD-4C601ABB41F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88699708-3FAE-47A9-A460-5A83C4FDF27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88699708-3FAE-47A9-A460-5A83C4FDF27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88699708-3FAE-47A9-A460-5A83C4FDF27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88699708-3FAE-47A9-A460-5A83C4FDF27E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E08F282-8A7E-48DE-B01F-BD9A63D86D9F}
+	EndGlobalSection
+EndGlobal
